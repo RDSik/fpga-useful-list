@@ -22,7 +22,7 @@
 * [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
 * [Icarus Verilog](https://github.com/steveicarus/iverilog) - Симулятор Verilog HDL
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра построения и просмотра временных диаграмм
-* [Style Guide](https://github.com/lowRISC/style-guides) - Гайд по оформлению кода
+* [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
 * [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
 * [Cocotb](https://github.com/cocotb/cocotb) - Библиотека симуляции для написания тестовых окружений VHDL и Verilog/System Verilog на Python
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
