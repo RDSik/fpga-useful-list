@@ -7,13 +7,13 @@
 
 ## Сайты -- Websites
 
-* [HDLBits][https://hdlbits.01xz.net/wiki/Main_Page] - Сборник упражнений для практики с использованием языка Verilog
+* [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Сборник упражнений для практики с использованием языка Verilog
 * [TestBench.in](https://testbench.in) - Сайт с полезной информации по верификации
 * [Asic World](https://www.asic-world.com) - Сборник теории и примеров по HDL
 * [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
 * [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
 
-## Репозитории -- Repository
+## Репозитории -- Repositories
 
 * [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
 * [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
@@ -23,8 +23,8 @@
 * [Icarus Verilog](https://github.com/steveicarus/iverilog) - Симулятор Verilog HDL
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра построения и просмотра временных диаграмм
 * [Style Guide](https://github.com/lowRISC/style-guides) - Гайд по оформлению кода
-* [HDLMake](https://github.com/HDLMake/hdl-make) - Автосборка проектов под различные среды разработки и симуляторы 
+* [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
 * [Cocotb](https://github.com/cocotb/cocotb) - Библиотека симуляции для написания тестовых окружений VHDL и Verilog/System Verilog на Python
-* [Python scripts for downloading cores from OpenCores.org](https://github.com/fabriziotappero/opencores-scraper) - 
-* [NANDLAND](https://github.com/nandland) - 
-* [Fork all cores from OpenCores.org](https://github.com/freecores)
+* [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
+* [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
+* [NANDLAND](https://github.com/nandland)
