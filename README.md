@@ -1,0 +1,30 @@
+# Список полезных материалов по FPGA тематике -- FPGA useful list
+
+# Оглавление -- Content
+
+* [Сайты -- Websites](#Сайты----Websites)
+* [Репозитории -- Repositories](#Репозитории----Repositories)
+
+## Сайты -- Websites
+
+* [HDLBits][https://hdlbits.01xz.net/wiki/Main_Page] - Сборник упражнений для практики с использованием языка Verilog
+* [TestBench.in](https://testbench.in) - Сайт с полезной информации по верификации
+* [Asic World](https://www.asic-world.com) - Сборник теории и примеров по HDL
+* [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
+* [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
+
+## Репозитории -- Repository
+
+* [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
+* [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
+* [WaveDrom](https://github.com/wavedrom/wavedrom) - Программа для изображения временных диграмм
+* [Yosys](https://github.com/YosysHQ/yosys) - Фреймворк для инструментов RTL синтеза
+* [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) - Симулятор Verilog HDL
+* [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра построения и просмотра временных диаграмм
+* [Style Guide](https://github.com/lowRISC/style-guides) - Гайд по оформлению кода
+* [HDLMake](https://github.com/HDLMake/hdl-make) - Автосборка проектов под различные среды разработки и симуляторы 
+* [Cocotb](https://github.com/cocotb/cocotb) - Библиотека симуляции для написания тестовых окружений VHDL и Verilog/System Verilog на Python
+* [Python scripts for downloading cores from OpenCores.org](https://github.com/fabriziotappero/opencores-scraper) - 
+* [NANDLAND](https://github.com/nandland) - 
+* [Fork all cores from OpenCores.org](https://github.com/freecores)
