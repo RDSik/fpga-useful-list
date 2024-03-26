@@ -26,5 +26,6 @@
 * [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
 * [Cocotb](https://github.com/cocotb/cocotb) - Библиотека симуляции для написания тестовых окружений VHDL и Verilog/System Verilog на Python
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
+* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
 * [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
 * [NANDLAND](https://github.com/nandland)
