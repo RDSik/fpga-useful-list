@@ -15,8 +15,8 @@
 
 ## Репозитории -- Repositories
 
-* [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
 * [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
+* [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
 * [WaveDrom](https://github.com/wavedrom/wavedrom) - Программа для изображения временных диграмм
 * [Yosys](https://github.com/YosysHQ/yosys) - Фреймворк для инструментов RTL синтеза
 * [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
