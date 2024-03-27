@@ -10,6 +10,11 @@
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Сборник упражнений для практики с использованием языка Verilog
 * [TestBench.in](https://testbench.in) - Сайт с полезной информацией по верификации
 * [Asic World](https://www.asic-world.com) - Сборник теории и примеров по HDL
+* [FPGA Tutorial](https://fpgatutorial.com) - Изучение основ проектирования FPGA
+* [Chipverify](https://www.chipverify.com) - Изучение верификации
+* [VLSI Verify](https://vlsiverify.com) - Уроки по изучению Verilog/System Verilog
+* [NANDLAND](https://nandland.com) - Изучение FPGA, Verilog и VHDL
+* [OpenCores](https://opencores.org) - Сообщество открытых IP ядер
 * [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
 * [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
 
