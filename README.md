@@ -33,4 +33,4 @@
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
 * [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
-* [NANDLAND](https://github.com/nandland)
+* [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
