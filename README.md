@@ -8,7 +8,7 @@
 ## Сайты -- Websites
 
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Сборник упражнений для практики с использованием языка Verilog
-* [TestBench.in](https://testbench.in) - Сайт с полезной информации по верификации
+* [TestBench.in](https://testbench.in) - Сайт с полезной информацией по верификации
 * [Asic World](https://www.asic-world.com) - Сборник теории и примеров по HDL
 * [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
 * [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
