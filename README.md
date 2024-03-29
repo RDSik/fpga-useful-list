@@ -20,6 +20,7 @@
 
 ## Репозитории -- Repositories
 
+* [DESim](https://github.com/fpgacademy/DESim) - приложение представляющее графический интерфейс, которое представляет некоторые функции платы DE1-SoC
 * [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
 * [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
 * [WaveDrom](https://github.com/wavedrom/wavedrom) - Движок для визуализации временных диграмм
