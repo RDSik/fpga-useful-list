@@ -20,6 +20,7 @@
 
 ## Репозитории -- Repositories
 
+* [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - Иструмент для тренировки HDL
 * [DESim](https://github.com/fpgacademy/DESim) - Приложение представляющее графический интерфейс, для доступа к некоторым функциям платы DE1-SoC
 * [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
 * [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
