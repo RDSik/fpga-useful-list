@@ -36,3 +36,4 @@
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
 * [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
 * [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
+* [Marsohod](https://github.com/marsohod4you)
