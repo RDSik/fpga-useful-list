@@ -36,4 +36,6 @@
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
 * [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
 * [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
-* [Marsohod](https://github.com/marsohod4you)
+* [Marsohod](https://github.com/marsohod4you) - Репозитории с проектами для плат Марсоход
+* [Школа Синтеза Цифровых Схем](https://github.com/chipdesignschool) - Репозитории школы синтеза цифровых схем
+* [MIPSFPGA](https://github.com/MIPSfpga/schoolMIPS) - Репозитории с реализацией простого MIPS процессора
