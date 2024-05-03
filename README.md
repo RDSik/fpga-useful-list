@@ -41,3 +41,4 @@
 * [MIPSFPGA](https://github.com/MIPSfpga/schoolMIPS) - Репозитории с реализацией простого MIPS процессора
 * [RARS](https://github.com/TheThirdOne/rars.git) - Симулятор RISC-V Assembler
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Репозитории с реализацией простого RISC-V процессора
+* [VexRiscv](https://github.com/SpinalHDL/VexRiscv) - Реализация 32 битного RISC-V процессора
