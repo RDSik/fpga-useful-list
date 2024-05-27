@@ -31,7 +31,8 @@
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
 * [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
 * [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
-* [Cocotb](https://github.com/cocotb/cocotb) - Библиотека симуляции для написания тестовых окружений HDL на Python
+* [Cocotb](https://github.com/cocotb/cocotb) - Фреймворк для тестирования HDL дизайнов на Python
+* [](https://github.com/pyuvm/pyuvm) - UVM на Python поверх Cocotb
 * [SVUnit](https://github.com/svunit/svunit) - Фрейморк для тестирования FPGA и ASIC на Verilog/System Verilog
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
