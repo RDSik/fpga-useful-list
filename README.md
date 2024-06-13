@@ -43,3 +43,4 @@
 * [MIPSFPGA](https://github.com/MIPSfpga/schoolMIPS) - Репозитории с реализацией простого MIPS процессора
 * [RARS](https://github.com/TheThirdOne/rars.git) - Симулятор RISC-V Assembler
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Репозитории с реализацией простого RISC-V процессора
+* [LUMOS](https://github.com/IUST-Computer-Organization/LUMOS.git) - Многоцикловой RISC-V процессор, который реализует набор команд RV32I 
