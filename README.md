@@ -58,11 +58,14 @@
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
 * [Alex Forencich](https://github.com/alexforencich)
+* [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Russell Merrick](https://github.com/nandland)
+* [Stacey(FPGAs for Beginners)](https://github.com/HDLForBeginners)
 * [Yuri Panchul](https://github.com/yuri-panchul)
 * [Stanislav Zhelnio](https://github.com/zhelnio)
 * [Sergey Chusov](https://github.com/serge0699)
 * [Alexander Romanov](https://github.com/RomeoMe5)
+* [Viktor Prutyanov](https://github.com/viktor-prutyanov)
 * [FPGA-Systems](https://github.com/FPGA-Systems)
 
 #### Others
