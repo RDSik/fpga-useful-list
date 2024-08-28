@@ -1,15 +1,15 @@
 # Список полезных материалов по FPGA тематике -- FPGA useful list
 
-# Оглавление -- Content
+# Content
 
-* [Сайты -- Websites](#Сайты----Websites)
-* [Репозитории -- Repositories](#Репозитории----Repositories)
+* [Websites](#Websites)
+* [Repositories](#Repositories)
   * [Processors](#Processors)
   * [Tools](#Tools)
   * [Peoples](#Peoples)
   * [Others](#Others)
 
-## Сайты -- Websites
+## Websites
 
 * [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Сборник упражнений для практики с использованием языка Verilog
 * [TestBench.in](https://testbench.in) - Сайт с полезной информацией по верификации
@@ -22,7 +22,7 @@
 * [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
 * [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
 
-## Репозитории -- Repositories
+## Repositories
 
 ### Topics
 * [Processors](#Processors)
