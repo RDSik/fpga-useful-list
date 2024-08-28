@@ -31,7 +31,7 @@
 * [Others](#Others)
 
 #### Processors
-* [Школа Синтеза Цифровых Схем](https://github.com/chipdesignschool) - Репозитории школы синтеза цифровых схем
+* [Chip Design School](https://github.com/chipdesignschool) - Chip Design School repos
 * [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS) - A small MIPS CPU core originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris). 
 * [RARS](https://github.com/TheThirdOne/rars.git) - RARS, the RISC-V Assembler, Simulator, and Runtime, will assemble and simulate the execution of RISC-V assembly language programs.
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Tiny RISCV CPU. Originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) and schoolMIPS project.
@@ -45,13 +45,13 @@
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
-* [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - Иструмент для тренировки HDL
+* [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - A human-in-the-loop training tool for rtl-developers, microarchitects and verification engineers allowing experiments with flow control and verification techniques
 * [DESim](https://github.com/fpgacademy/DESim) - Application that provides a graphical user interface (GUI) that represents some of the features of a DE1-SoC board.
 * [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGAs.
 * [Digital](https://github.com/hneemann/Digital) - Easy-to-use digital logic designer and circuit simulator designed for educational purposes.
 * [WaveDrom](https://github.com/wavedrom/wavedrom) - Online digital timing diagram (waveform) rendering engine that uses javascript, HTML5 and SVG to convert a WaveJSON input text description into SVG vector graphics.
 * [Yosys](https://github.com/YosysHQ/yosys.git) - Framework for RTL synthesis tools.
-* [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
+* [Verilator](https://github.com/verilator/verilator) - SystemVerilog simulator and lint system
 * [Icarus Verilog](https://github.com/steveicarus/iverilog) - Intended to compile ALL of the Verilog HDL, as described in the IEEE-1364 standard.
 * [GTKWave](https://github.com/gtkwave/gtkwave) - Fully featured GTK+ based wave viewer for Unix and Win32 which reads FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
 * [HDLMake](https://github.com/HDLMake/hdl-make) - Tool for generating multi-purpose makefiles for FPGA projects (clone of hdlmake from CERN)
