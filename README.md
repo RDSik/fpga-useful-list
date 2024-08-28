@@ -58,6 +58,7 @@
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
 * [Alex Forencich](https://github.com/alexforencich)
+* [Tomasz Hemperek](https://github.com/themperek)
 * [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Russell Merrick](https://github.com/nandland)
 * [Stacey(FPGAs for Beginners)](https://github.com/HDLForBeginners)
