@@ -46,5 +46,6 @@
 * [LUMOS](https://github.com/IUST-Computer-Organization/LUMOS.git) - Многоцикловой RISC-V процессор, который реализует набор команд RV32I
 * [PicoRV32](https://github.com/YosysHQ/picorv32.git) - Процессорное ядро которое реализует набор инструкций RV32IMC
 * [MIRISCV](https://github.com/MPSU/MIRISCV.git) - Процессорное ядро, которое поддерживает ISA RV32IM.
+* [Ibex](https://github.com/lowRISC/ibex.git) - Процессорное ядро, которое поддерживает Integer (I) or Embedded (E), Integer Multiplication and Division (M), Compressed (C), and B (Bit Manipulation) расширения.
 * [SV2V](https://github.com/zachjs/sv2v.git) - Конвертирует SystemVerilog (IEEE 1800-2017) в Verilog (IEEE 1364-2005)
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
