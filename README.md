@@ -53,10 +53,19 @@
 * [PyUVM](https://github.com/pyuvm/pyuvm) - UVM на Python поверх Cocotb
 * [SVUnit](https://github.com/svunit/svunit) - Фрейморк для тестирования FPGA и ASIC на Verilog/System Verilog
 
+### Peoples
+* [Artin Isagholian](https://github.com/0xArt)
+* [Alex Forencich](https://github.com/alexforencich)
+* [Russell Merrick](https://github.com/nandland)
+* [Yuri Panchul](https://github.com/yuri-panchul)
+* [Stanislav Zhelnio](https://github.com/zhelnio)
+* [Sergey Chusov](https://github.com/serge0699)
+* [Alexander Romanov](https://github.com/RomeoMe5)
+* [FPGA-Systems](https://github.com/FPGA-Systems)
+
 ### Others
 * [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
 * [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
-* [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
 * [Marsohod](https://github.com/marsohod4you) - Репозитории с проектами для плат Марсоход
