@@ -1,4 +1,4 @@
-# Список полезных материалов по тематике FPGA -- FPGA useful list
+# List of useful materials on FPGA topics -- FPGA useful list
 
 # Оглавление -- Content
 
