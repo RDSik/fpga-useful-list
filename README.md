@@ -1,4 +1,4 @@
-# List of useful materials on FPGA topics -- FPGA useful list
+# Спсок полезных материалов по FPGA тематике -- FPGA useful list
 
 # Оглавление -- Content
 
@@ -20,25 +20,11 @@
 
 ## Репозитории -- Repositories
 
-* [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - Иструмент для тренировки HDL
-* [DESim](https://github.com/fpgacademy/DESim) - Приложение представляющее графический интерфейс, для доступа к некоторым функциям платы DE1-SoC
-* [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
-* [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
-* [WaveDrom](https://github.com/wavedrom/wavedrom) - Движок для визуализации временных диграмм
-* [YosysHQ](https://github.com/YosysHQ) - Сборник репозиториев с инструментами для FPGA разработки
-* [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) - Симулятор Verilog HDL
-* [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
-* [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
-* [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
-* [Cocotb](https://github.com/cocotb/cocotb) - Фреймворк для тестирования HDL дизайнов на Python
-* [PyUVM](https://github.com/pyuvm/pyuvm) - UVM на Python поверх Cocotb
-* [SVUnit](https://github.com/svunit/svunit) - Фрейморк для тестирования FPGA и ASIC на Verilog/System Verilog
-* [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
-* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
-* [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
-* [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
-* [Marsohod](https://github.com/marsohod4you) - Репозитории с проектами для плат Марсоход
+* [Processors topic](#Processors)
+* [Tools topic](#Tools)
+* [Others](#Others)
+
+### Processors
 * [Школа Синтеза Цифровых Схем](https://github.com/chipdesignschool) - Репозитории школы синтеза цифровых схем
 * [MIPSFPGA](https://github.com/MIPSfpga/schoolMIPS) - Репозитории с реализацией простого MIPS процессора
 * [RARS](https://github.com/TheThirdOne/rars.git) - Симулятор RISC-V Assembler
@@ -48,5 +34,29 @@
 * [MIRISCV](https://github.com/MPSU/MIRISCV.git) - Процессорное ядро, которое поддерживает ISA RV32IM.
 * [Ibex](https://github.com/lowRISC/ibex.git) - Процессорное ядро, которое поддерживает Integer (I) or Embedded (E), Integer Multiplication and Division (M), Compressed (C), and B (Bit Manipulation) расширения.
 * [RISCV-DV](https://github.com/chipsalliance/riscv-dv.git) - Генератор инструкций для верификации RISC-V процессора
-* [SV2V](https://github.com/zachjs/sv2v.git) - Конвертирует SystemVerilog (IEEE 1800-2017) в Verilog (IEEE 1364-2005)
+* [AAPG](https://gitlab.com/shaktiproject/tools/aapg.git) - Автоматический генератор программ на Assembly
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
+
+### Tools
+* [SV2V](https://github.com/zachjs/sv2v.git) - Конвертирует SystemVerilog (IEEE 1800-2017) в Verilog (IEEE 1364-2005)
+* [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - Иструмент для тренировки HDL
+* [DESim](https://github.com/fpgacademy/DESim) - Приложение представляющее графический интерфейс, для доступа к некоторым функциям платы DE1-SoC
+* [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Универсальная утилита для программирования FPGA
+* [Digital](https://github.com/hneemann/Digital) - Конструктор цифровой логики и симулятор схем
+* [WaveDrom](https://github.com/wavedrom/wavedrom) - Движок для визуализации временных диграмм
+* [Yosys](https://github.com/YosysHQ/yosys.git) - Инструмент для синтеза
+* [Verilator](https://github.com/verilator/verilator) - Симулятор Verilog/System Verilog
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) - Симулятор Verilog HDL
+* [GTKWave](https://github.com/gtkwave/gtkwave) - Программа для просмотра временных диаграмм
+* [HDLMake](https://github.com/HDLMake/hdl-make) - Инструмент для создания многоцелевых makefiles для FPGA проектов
+* [Cocotb](https://github.com/cocotb/cocotb) - Фреймворк для тестирования HDL дизайнов на Python
+* [PyUVM](https://github.com/pyuvm/pyuvm) - UVM на Python поверх Cocotb
+* [SVUnit](https://github.com/svunit/svunit) - Фрейморк для тестирования FPGA и ASIC на Verilog/System Verilog
+
+### Others
+* [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
+* [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
+* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
+* [FreeCores](https://github.com/freecores) - Форк всех ядер с OpenCores.org
+* [NANDLAND](https://github.com/nandland) - Полезные проекты с уроками
+* [Marsohod](https://github.com/marsohod4you) - Репозитории с проектами для плат Марсоход
