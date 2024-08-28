@@ -20,13 +20,13 @@
 
 ## Репозитории -- Repositories
 
-**`Topics:`**
+###Topics###
 * [Processors](#Processors)
 * [Tools](#Tools)
 * [Peoples](#Peoples)
 * [Others](#Others)
 
-### Processors
+#### Processors
 * [Школа Синтеза Цифровых Схем](https://github.com/chipdesignschool) - Репозитории школы синтеза цифровых схем
 * [MIPSFPGA](https://github.com/MIPSfpga/schoolMIPS) - Репозитории с реализацией простого MIPS процессора
 * [RARS](https://github.com/TheThirdOne/rars.git) - Симулятор RISC-V Assembler
@@ -39,7 +39,7 @@
 * [AAPG](https://gitlab.com/shaktiproject/tools/aapg.git) - Автоматический генератор программ на Assembly
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
 
-### Tools
+#### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Конвертирует SystemVerilog (IEEE 1800-2017) в Verilog (IEEE 1364-2005)
 * [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - Иструмент для тренировки HDL
 * [DESim](https://github.com/fpgacademy/DESim) - Приложение представляющее графический интерфейс, для доступа к некоторым функциям платы DE1-SoC
@@ -55,7 +55,7 @@
 * [PyUVM](https://github.com/pyuvm/pyuvm) - UVM на Python поверх Cocotb
 * [SVUnit](https://github.com/svunit/svunit) - Фрейморк для тестирования FPGA и ASIC на Verilog/System Verilog
 
-### Peoples
+#### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
 * [Alex Forencich](https://github.com/alexforencich)
 * [Russell Merrick](https://github.com/nandland)
@@ -65,7 +65,7 @@
 * [Alexander Romanov](https://github.com/RomeoMe5)
 * [FPGA-Systems](https://github.com/FPGA-Systems)
 
-### Others
+#### Others
 * [Style Guides](https://github.com/lowRISC/style-guides) - Гайды по оформлению кода
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Python скрипты для скачивания ядер с OpenCores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - Расширение для VSCode
