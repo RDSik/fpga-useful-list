@@ -11,16 +11,16 @@
 
 ## Websites
 
-* [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page) - Сборник упражнений для практики с использованием языка Verilog
-* [TestBench.in](https://testbench.in) - Сайт с полезной информацией по верификации
-* [Asic World](https://www.asic-world.com) - Сборник теории и примеров по HDL
-* [FPGA Tutorial](https://fpgatutorial.com) - Изучение основ проектирования FPGA
-* [Chipverify](https://www.chipverify.com) - Изучение верификации
-* [VLSI Verify](https://vlsiverify.com) - Уроки по изучению Verilog/System Verilog
-* [NANDLAND](https://nandland.com) - Изучение FPGA, Verilog и VHDL
-* [OpenCores](https://opencores.org) - Сообщество открытых IP ядер
-* [FPGA-Systems](https://fpga-systems.ru) - Cообщество FPGA разработчиков
-* [Марсоход](https://marsohod.org) - FPGA & Verilog Блог
+* [HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)
+* [TestBench.in](https://testbench.in)
+* [Asic World](https://www.asic-world.com)
+* [FPGA Tutorial](https://fpgatutorial.com)
+* [Chipverify](https://www.chipverify.com)
+* [VLSI Verify](https://vlsiverify.com)
+* [NANDLAND](https://nandland.com)
+* [OpenCores](https://opencores.org)
+* [FPGA-Systems](https://fpga-systems.ru)
+* [Marsohod](https://marsohod.org)
 
 ## Repositories
 
@@ -75,7 +75,7 @@
 * [Marsohod](https://github.com/marsohod4you)
 
 #### Others
-* [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC Style Guides
+* [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC style guides
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
 * [FreeCores](https://github.com/freecores) - A home for open source hardware cores
