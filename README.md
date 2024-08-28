@@ -20,8 +20,10 @@
 
 ## Репозитории -- Repositories
 
-* [Processors topic](#Processors)
-* [Tools topic](#Tools)
+Topics:
+* [Processors](#Processors)
+* [Tools](#Tools)
+* [Peoples](#Peoples)
 * [Others](#Others)
 
 ### Processors
