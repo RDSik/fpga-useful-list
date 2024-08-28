@@ -31,7 +31,6 @@
 * [Others](#Others)
 
 #### Processors
-* [Chip Design School](https://github.com/chipdesignschool) - Chip Design School repos
 * [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS) - A small MIPS CPU core originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris). 
 * [RARS](https://github.com/TheThirdOne/rars.git) - RARS, the RISC-V Assembler, Simulator, and Runtime, will assemble and simulate the execution of RISC-V assembly language programs.
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Tiny RISCV CPU. Originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) and schoolMIPS project.
@@ -75,6 +74,7 @@
 * [Marsohod](https://github.com/marsohod4you)
 
 #### Others
+* [Chip Design School](https://github.com/chipdesignschool) - Chip Design School repos
 * [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC style guides
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
