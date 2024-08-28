@@ -4,6 +4,10 @@
 
 * [Сайты -- Websites](#Сайты----Websites)
 * [Репозитории -- Repositories](#Репозитории----Repositories)
+  * [Processors](#Processors)
+  * [Tools](#Tools)
+  * [Peoples](#Peoples)
+  * [Others](#Others
 
 ## Сайты -- Websites
 
