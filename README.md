@@ -72,8 +72,8 @@
 * [Viktor Prutyanov](https://github.com/viktor-prutyanov)
 
 #### Others
-* [FPGA-Systems](https://github.com/FPGA-Systems)
-* [Marsohod](https://github.com/marsohod4you)
+* [FPGA-Systems](https://github.com/FPGA-Systems) - FPGA-Systems repos
+* [Marsohod](https://github.com/marsohod4you) - Marsohod repos
 * [Chip Design School](https://github.com/chipdesignschool) - Chip Design School repos
 * [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC style guides
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
