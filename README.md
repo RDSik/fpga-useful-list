@@ -7,7 +7,7 @@
   * [Processors](#Processors)
   * [Tools](#Tools)
   * [Peoples](#Peoples)
-  * [Others](#Others
+  * [Others](#Others)
 
 ## Сайты -- Websites
 
