@@ -64,6 +64,7 @@
 * [Tomasz Hemperek](https://github.com/themperek)
 * [Jeff Johnson](https://github.com/fpgadeveloper)
 * [Russell Merrick](https://github.com/nandland)
+* [Dan Gisselquist](https://github.com/ZipCPU)
 * [Stacey(FPGAs for Beginners)](https://github.com/HDLForBeginners)
 * [Yuri Panchul](https://github.com/yuri-panchul)
 * [Stanislav Zhelnio](https://github.com/zhelnio)
