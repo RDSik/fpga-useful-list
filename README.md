@@ -58,6 +58,7 @@
 * [Cocotb](https://github.com/cocotb/cocotb) - Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.
 * [PyUVM](https://github.com/pyuvm/pyuvm) - UVM written in Python
 * [SVUnit](https://github.com/svunit/svunit) - Framework for ASIC and FPGA developers writing Verilog/SystemVerilog code.
+* [VUnit](https://github.com/VUnit/vunit) - Unit testing framework for VHDL/SystemVerilog
 * [GHDL](https://github.com/ghdl/ghdl.git) - VHDL 2008/93/87 simulator
 
 #### Peoples
