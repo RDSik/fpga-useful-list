@@ -3,6 +3,7 @@
 # Content
 
 * [Websites](#Websites)
+* [YouTube](#YouTube)
 * [Repositories](#Repositories)
   * [Processors](#Processors)
   * [Tools](#Tools)
@@ -21,6 +22,20 @@
 * [OpenCores](https://opencores.org)
 * [FPGA-Systems](https://fpga-systems.ru)
 * [Marsohod](https://marsohod.org)
+
+## YouTube
+
+* [Chip Design School](https://www.youtube.com/watch?v=DFcvEO-gP0c&list=PLi3mfxNhwAi-Jul8__xY9Nhig8DZNxJFZ&index=26)
+* [Разработка аппаратного обеспечения](https://www.youtube.com/watch?v=LPhnVATL_EY&list=PL5NHx3fCeyvv45zdwOyX1W64hIkzvQuCG)
+* [Архитектура и язык ассемблера RISC-V](https://www.youtube.com/watch?v=ZpH-Nwk4Y2U&list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi)
+* [Introduction to FPGA](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
+* [Архитектура ЭВМ](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
+* [Lectures Verilog](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr)
+* [SPI Project in FPGA - Ambient Light Sensor](https://www.youtube.com/watch?v=0LpfuZ1wz2w&list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
+* [UART](https://www.youtube.com/watch?v=hVMeU2ThgNw&list=PL9K1-gZiaFsM7kZuaGGR5rDH2TbMJ56Mh)
+* [LFSR](https://www.youtube.com/watch?v=oROOR6ylVF4&list=PL9K1-gZiaFsO5sd811zS86EtX95KA1_L7)
+* [AXI and AXI Stream](https://www.youtube.com/watch?v=GyYmSZZor1s&list=PL9K1-gZiaFsN-OLaN7mxfhWC4iFF82X6I)
+* [Zynq](https://www.youtube.com/watch?v=UZ3FnZNlcWk&list=PL9K1-gZiaFsMpRZ2uaFmM2-dS0z-EEgzW)
 
 ## Repositories
 
