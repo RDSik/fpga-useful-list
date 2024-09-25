@@ -53,6 +53,7 @@
 
 * [ПРОГРАММИРОВАНИЕ FPGA ДЛЯ НАЧИНАЮЩИХ](https://dmkpress.com/catalog/electronics/cad/978-5-97060-986-6/)
 * [ЦИФРОВАЯ СХЕМОТЕХНИКА И АРХИТЕКТУРА КОМПЬЮТЕРА: RISC-V](https://dmkpress.com/catalog/electronics/circuit_design/978-5-97060-961-3/)
+* [ЦИФРОВАЯ СХЕМОТЕХНИКА И АРХИТЕКТУРА КОМПЬЮТЕРА. ДОПОЛНЕНИЕ ПО АРХИТЕКТУРЕ ARM](https://dmkpress.com/catalog/electronics/circuit_design/978-5-97060-650-6/)
 * [ЦИФРОВОЙ СИНТЕЗ: RISC-V](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-282-2/)
 * [ЛОГИЧЕСКОЕ ПРОЕКТИРОВАНИЕ И ВЕРИФИКАЦИЯ СИСТЕМ НА SYSTEM VERILOG](https://dmkpress.com/catalog/electronics/cad/978-5-97060-619-3/)
 * [ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ АССЕМБЛЕРА RISC-V](https://dmkpress.com/catalog/computer/programming/assembler/978-5-93700-300-3/)
