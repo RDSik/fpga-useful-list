@@ -51,7 +51,12 @@
 
 # Books
 
-* []()
+* [ПРОГРАММИРОВАНИЕ FPGA ДЛЯ НАЧИНАЮЩИХ](https://dmkpress.com/catalog/electronics/cad/978-5-97060-986-6/)
+* [ЦИФРОВАЯ СХЕМОТЕХНИКА И АРХИТЕКТУРА КОМПЬЮТЕРА: RISC-V](https://dmkpress.com/catalog/electronics/circuit_design/978-5-97060-961-3/)
+* [ЦИФРОВОЙ СИНТЕЗ: RISC-V](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-282-2/)
+* [ПРОГРАММИРОВАНИЕ НА ЯЗЫКЕ АССЕМБЛЕРА RISC-V](https://dmkpress.com/catalog/computer/programming/assembler/978-5-93700-300-3/)
+* [АРХИТЕКТУРА ВСТРАИВАЕМЫХ СИСТЕМ](https://dmkpress.com/catalog/electronics/circuit_design/978-5-93700-206-8/)
+* [Джон Л.Хеннесси, Дэвид А. Паттерсон "Компьютерная архитектура. Количественный подход"]()
 
 ## GitHub
 
