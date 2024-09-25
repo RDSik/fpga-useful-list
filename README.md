@@ -30,12 +30,15 @@
 * [Архитектура и язык ассемблера RISC-V](https://www.youtube.com/watch?v=ZpH-Nwk4Y2U&list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi)
 * [Introduction to FPGA](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
 * [Архитектура ЭВМ](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)
+* [Основы программирования встраиваемых систем](https://www.youtube.com/watch?v=etSeMJSXmxo&list=PLlb7e2G7aSpQWs3YhIXoo9R3da4cQztm4)
 * [Lectures Verilog](https://www.youtube.com/watch?v=d-Swjqo8WZg&list=PLhtMaaf_npBz9zfsJMZC12Lk3zvHiJckr)
+* [Lectures STM32 v2](https://www.youtube.com/watch?v=qruwVBaNRsI&list=PLhtMaaf_npBzsEQ94eGn5RnuE-VdGVObR)
 * [SPI Project in FPGA - Ambient Light Sensor](https://www.youtube.com/watch?v=0LpfuZ1wz2w&list=PLnAoag7Ew-vq5kOyfyNN50xL718AtLoCQ)
 * [UART](https://www.youtube.com/watch?v=hVMeU2ThgNw&list=PL9K1-gZiaFsM7kZuaGGR5rDH2TbMJ56Mh)
 * [LFSR](https://www.youtube.com/watch?v=oROOR6ylVF4&list=PL9K1-gZiaFsO5sd811zS86EtX95KA1_L7)
 * [AXI and AXI Stream](https://www.youtube.com/watch?v=GyYmSZZor1s&list=PL9K1-gZiaFsN-OLaN7mxfhWC4iFF82X6I)
 * [Zynq](https://www.youtube.com/watch?v=UZ3FnZNlcWk&list=PL9K1-gZiaFsMpRZ2uaFmM2-dS0z-EEgzW)
+* [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 
 ## Repositories
 
