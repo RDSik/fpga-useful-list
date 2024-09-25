@@ -5,6 +5,7 @@
 * [Websites](#Websites)
 * [YouTube](#YouTube)
 * [Telegram](#Telegram)
+* [Books](#Books)
 * [GitHub](#GitHub)
   * [Processors](#Processors)
   * [Tools](#Tools)
@@ -23,6 +24,7 @@
 * [OpenCores](https://opencores.org)
 * [FPGA-Systems](https://fpga-systems.ru)
 * [Marsohod](https://marsohod.org)
+* [Истовый Инженер](https://engineer.yadro.com/)
 
 ## YouTube
 
@@ -46,6 +48,10 @@
 * [Записки CPU designer'a](https://t.me/cpu_design)
 * [Xilinx Zynq 7000](https://t.me/zynq7000)
 * [VFA (Verification For All)](https://t.me/verif_for_all)
+
+# Books
+
+* []()
 
 ## GitHub
 
