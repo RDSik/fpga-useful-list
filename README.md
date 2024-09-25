@@ -41,7 +41,7 @@
 * [Zynq](https://www.youtube.com/watch?v=UZ3FnZNlcWk&list=PL9K1-gZiaFsMpRZ2uaFmM2-dS0z-EEgzW)
 * [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 
-## 
+## Telegram
 
 * [Записки CPU designer'a](https://t.me/cpu_design)
 * [Xilinx Zynq 7000](https://t.me/zynq7000)
