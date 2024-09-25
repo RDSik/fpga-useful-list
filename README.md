@@ -49,7 +49,7 @@
 * [Xilinx Zynq 7000](https://t.me/zynq7000)
 * [VFA (Verification For All)](https://t.me/verif_for_all)
 
-# Books
+## Books
 
 * [ПРОГРАММИРОВАНИЕ FPGA ДЛЯ НАЧИНАЮЩИХ](https://dmkpress.com/catalog/electronics/cad/978-5-97060-986-6/)
 * [ЦИФРОВАЯ СХЕМОТЕХНИКА И АРХИТЕКТУРА КОМПЬЮТЕРА: RISC-V](https://dmkpress.com/catalog/electronics/circuit_design/978-5-97060-961-3/)
