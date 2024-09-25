@@ -5,7 +5,7 @@
 * [Websites](#Websites)
 * [YouTube](#YouTube)
 * [Telegram](#Telegram)
-* [Repositories](#Repositories)
+* [GitHub](#GitHub)
   * [Processors](#Processors)
   * [Tools](#Tools)
   * [Peoples](#Peoples)
@@ -47,7 +47,7 @@
 * [Xilinx Zynq 7000](https://t.me/zynq7000)
 * [VFA (Verification For All)](https://t.me/verif_for_all)
 
-## Repositories
+## GitHub
 
 ### Topics
 * [Processors](#Processors)
