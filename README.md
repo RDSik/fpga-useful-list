@@ -48,7 +48,7 @@
 * [Записки CPU designer'a](https://t.me/cpu_design)
 * [Xilinx Zynq 7000](https://t.me/zynq7000)
 * [VFA (Verification For All)](https://t.me/verif_for_all)
-* [FPGA Systems.ru](https://t.me/fpgasystems)
+* [FPGA-Systems](https://t.me/fpgasystems)
 
 ## Books
 
