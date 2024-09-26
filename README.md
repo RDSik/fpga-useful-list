@@ -80,6 +80,7 @@
 * [MIRISCV](https://github.com/MPSU/MIRISCV.git) - CPU core that implements ISA RV32IM.
 * [Ibex](https://github.com/lowRISC/ibex.git) - Production-quality open source 32-bit RISC-V CPU that supports the Integer (I) or Embedded (E), Integer Multiplication and Division (M), Compressed (C), and B (Bit Manipulation) extensions.
 * [Zip CPU](https://github.com/ZipCPU/zipcpu.git) - The Zip CPU is a small, light-weight, RISC CPU.
+* [CORE-V Wally](https://github.com/openhwgroup/cvw.git) - Configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.
 * [RISCV-DV](https://github.com/chipsalliance/riscv-dv.git) - RISCV-DV is a SV/UVM based open-source instruction generator for RISC-V processor verification.
 * [AAPG](https://gitlab.com/shaktiproject/tools/aapg.git) - Automated Assembly Program Generator for the RISC-V ISA.
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
