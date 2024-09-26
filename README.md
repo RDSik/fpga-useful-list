@@ -43,6 +43,7 @@
 * [Zynq](https://www.youtube.com/watch?v=UZ3FnZNlcWk&list=PL9K1-gZiaFsMpRZ2uaFmM2-dS0z-EEgzW)
 * [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 * [Основы программирования](https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc)
+* [Harvard CS50 на русском](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
 
 ## Telegram
 
