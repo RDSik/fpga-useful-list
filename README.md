@@ -25,6 +25,7 @@
 * [FPGA-Systems](https://fpga-systems.ru)
 * [Marsohod](https://marsohod.org)
 * [Истовый Инженер](https://engineer.yadro.com/)
+* [EDA playground](https://www.edaplayground.com/)
 
 ## YouTube
 
