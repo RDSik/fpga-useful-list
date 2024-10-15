@@ -20,6 +20,7 @@
 * [FPGA Tutorial](https://fpgatutorial.com)
 * [Chipverify](https://www.chipverify.com)
 * [VLSI Verify](https://vlsiverify.com)
+* [Circuit Cove](https://circuitcove.com/)
 * [NANDLAND](https://nandland.com)
 * [OpenCores](https://opencores.org)
 * [FPGA-Systems](https://fpga-systems.ru)
