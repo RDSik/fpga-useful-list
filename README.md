@@ -109,6 +109,7 @@
 * [GHDL](https://github.com/ghdl/ghdl.git) - VHDL 2008/93/87 simulator
 * [Verilog to Routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing.git) - Open Source CAD Flow for FPGA Research
 * [LiteX](https://github.com/enjoy-digital/litex.git) - Framework provides a convenient and efficient infrastructure to create FPGA Cores/SoCs, to explore various digital design architectures and create full FPGA based systems.
+* [EDA Playground](https://github.com/edaplayground/eda-playground.git) - The FREE IDE for SystemVerilog, Verilog, and VHDL
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
