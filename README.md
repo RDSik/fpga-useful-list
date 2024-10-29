@@ -55,6 +55,9 @@
 * [FPGA-Systems](https://t.me/fpgasystems)
 * [DocsTech](https://t.me/docstech_offical)
 * [Истовый Инженер](https://t.me/ultimate_engineer)
+* [VLSI HUB](https://t.me/vlsihub)
+* [IP Cores](https://t.me/ipcores)
+* [FPGAASIC](https://t.me/fpgasic)
 
 ## Books
 
