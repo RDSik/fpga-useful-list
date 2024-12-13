@@ -75,7 +75,7 @@
 ## GitHub
 
 ### Topics
-* [Processors](#Processors)
+* [CPU](#CPU)
 * [Tools](#Tools)
 * [Peoples](#Peoples)
 * [Others](#Others)
@@ -93,6 +93,10 @@
 * [RISCV-DV](https://github.com/chipsalliance/riscv-dv.git) - RISCV-DV is a SV/UVM based open-source instruction generator for RISC-V processor verification.
 * [AAPG](https://gitlab.com/shaktiproject/tools/aapg.git) - Automated Assembly Program Generator for the RISC-V ISA.
 * [APS](https://github.com/MPSU/APS.git) - Лекции и лабораторные по курсу «Архитектуры процессорных систем»
+* [NERV](https://github.com/YosysHQ/nerv.git) - NERV is a very simple single-stage RV32I processor.
+* [Snippy](https://github.com/syntacore/snippy.git) - This is an LLVM project fork containing the LLVM-snippy generator.
+* [VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS.git) - Whisper is a RISC-V instruction set simulator (ISS) developed for the verification of the Veer micro-controller.
+* [Spike](https://github.com/riscv-software-src/riscv-isa-sim.git) - Spike, the RISC-V ISA Simulator, implements a functional model of one or more RISC-V harts.
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
@@ -115,6 +119,7 @@
 * [LiteX](https://github.com/enjoy-digital/litex.git) - Framework provides a convenient and efficient infrastructure to create FPGA Cores/SoCs, to explore various digital design architectures and create full FPGA based systems.
 * [EDA Playground](https://github.com/edaplayground/eda-playground.git) - The FREE IDE for SystemVerilog, Verilog, and VHDL
 * [MyHDL](https://github.com/myhdl/myhdl.git) - Free open-source package for using Python as a hardware description and verification language
+* [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
