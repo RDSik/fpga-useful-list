@@ -7,7 +7,7 @@
 * [Telegram](#Telegram)
 * [Books](#Books)
 * [GitHub](#GitHub)
-  * [Processors](#Processors)
+  * [CPU](#CPU)
   * [Tools](#Tools)
   * [Peoples](#Peoples)
   * [Others](#Others)
@@ -80,7 +80,7 @@
 * [Peoples](#Peoples)
 * [Others](#Others)
 
-#### Processors
+#### CPU
 * [schoolMIPS](https://github.com/MIPSfpga/schoolMIPS) - A small MIPS CPU core originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris). 
 * [RARS](https://github.com/TheThirdOne/rars.git) - RARS, the RISC-V Assembler, Simulator, and Runtime, will assemble and simulate the execution of RISC-V assembly language programs.
 * [schoolRISCV](https://github.com/zhelnio/schoolRISCV.git) - Tiny RISCV CPU. Originally based on Sarah L. Harris MIPS CPU ("Digital Design and Computer Arhitecture" by David Money Harris and Sarah L Harris) and schoolMIPS project.
