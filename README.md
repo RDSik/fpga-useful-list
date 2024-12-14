@@ -1,8 +1,4 @@
-<div align="center">
-
 # List of useful materials on FPGA topic -- FPGA useful list
-
-</div><br/><br/>
 
 # Content
 
