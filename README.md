@@ -97,6 +97,7 @@
 * [Snippy](https://github.com/syntacore/snippy.git) - This is an LLVM project fork containing the LLVM-snippy generator.
 * [VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS.git) - Whisper is a RISC-V instruction set simulator (ISS) developed for the verification of the Veer micro-controller.
 * [Spike](https://github.com/riscv-software-src/riscv-isa-sim.git) - Spike, the RISC-V ISA Simulator, implements a functional model of one or more RISC-V harts.
+* [uRV](https://ohwr.org/project/urv-core) - The uRV (Micro RISC-V) core is a small-sized implementation of a 32-bit RISC-V core, targeted specifically at FPGAs.
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
