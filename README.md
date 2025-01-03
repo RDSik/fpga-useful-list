@@ -121,7 +121,7 @@
 * [EDA Playground](https://github.com/edaplayground/eda-playground.git) - The FREE IDE for SystemVerilog, Verilog, and VHDL
 * [MyHDL](https://github.com/myhdl/myhdl.git) - Free open-source package for using Python as a hardware description and verification language
 * [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
-*[OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
+* [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
