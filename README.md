@@ -100,28 +100,29 @@
 * [uRV](https://ohwr.org/project/urv-core) - The uRV (Micro RISC-V) core is a small-sized implementation of a 32-bit RISC-V core, targeted specifically at FPGAs.
 
 #### Tools
-* [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs.
+* [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
 * [hdlgadgets](https://github.com/FPGA-InsideOut/hdlgadgets) - A human-in-the-loop training tool for rtl-developers, microarchitects and verification engineers allowing experiments with flow control and verification techniques
-* [DESim](https://github.com/fpgacademy/DESim) - Application that provides a graphical user interface (GUI) that represents some of the features of a DE1-SoC board.
-* [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGAs.
-* [Digital](https://github.com/hneemann/Digital) - Easy-to-use digital logic designer and circuit simulator designed for educational purposes.
-* [WaveDrom](https://github.com/wavedrom/wavedrom) - Online digital timing diagram (waveform) rendering engine that uses javascript, HTML5 and SVG to convert a WaveJSON input text description into SVG vector graphics.
-* [Yosys](https://github.com/YosysHQ/yosys.git) - Framework for RTL synthesis tools.
+* [DESim](https://github.com/fpgacademy/DESim) - Application that provides a graphical user interface (GUI) that represents some of the features of a DE1-SoC board
+* [openFPGALoader](https://github.com/trabucayre/openFPGALoader) - Universal utility for programming FPGAs
+* [Digital](https://github.com/hneemann/Digital) - Easy-to-use digital logic designer and circuit simulator designed for educational purposes
+* [WaveDrom](https://github.com/wavedrom/wavedrom) - Online digital timing diagram (waveform) rendering engine that uses javascript, HTML5 and SVG to convert a WaveJSON input text description into SVG vector graphics
+* [Yosys](https://github.com/YosysHQ/yosys.git) - Framework for RTL synthesis tools
 * [Verilator](https://github.com/verilator/verilator) - SystemVerilog simulator and lint system
-* [Icarus Verilog](https://github.com/steveicarus/iverilog) - Intended to compile ALL of the Verilog HDL, as described in the IEEE-1364 standard.
-* [GTKWave](https://github.com/gtkwave/gtkwave) - Fully featured GTK+ based wave viewer for Unix and Win32 which reads FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing.
+* [Icarus Verilog](https://github.com/steveicarus/iverilog) - Intended to compile ALL of the Verilog HDL, as described in the IEEE-1364 standard
+* [GTKWave](https://github.com/gtkwave/gtkwave) - Fully featured GTK+ based wave viewer for Unix and Win32 which reads FST, and GHW files as well as standard Verilog VCD/EVCD files and allows their viewing
 * [HDLMake](https://github.com/HDLMake/hdl-make) - Tool for generating multi-purpose makefiles for FPGA projects (clone of hdlmake from CERN)
-* [Cocotb](https://github.com/cocotb/cocotb) - Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.
+* [Cocotb](https://github.com/cocotb/cocotb) - Coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python
 * [PyUVM](https://github.com/pyuvm/pyuvm) - UVM written in Python
 * [SVUnit](https://github.com/svunit/svunit) - Framework for ASIC and FPGA developers writing Verilog/SystemVerilog code.
 * [VUnit](https://github.com/VUnit/vunit) - Unit testing framework for VHDL/SystemVerilog
 * [GHDL](https://github.com/ghdl/ghdl.git) - VHDL 2008/93/87 simulator
 * [Verilog to Routing](https://github.com/verilog-to-routing/vtr-verilog-to-routing.git) - Open Source CAD Flow for FPGA Research
-* [LiteX](https://github.com/enjoy-digital/litex.git) - Framework provides a convenient and efficient infrastructure to create FPGA Cores/SoCs, to explore various digital design architectures and create full FPGA based systems.
+* [LiteX](https://github.com/enjoy-digital/litex.git) - Framework provides a convenient and efficient infrastructure to create FPGA Cores/SoCs, to explore various digital design architectures and create full FPGA based systems
 * [EDA Playground](https://github.com/edaplayground/eda-playground.git) - The FREE IDE for SystemVerilog, Verilog, and VHDL
 * [MyHDL](https://github.com/myhdl/myhdl.git) - Free open-source package for using Python as a hardware description and verification language
 * [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
-* [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
+* [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization
+* [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler.got) - modular hardware build system ("make for silicon").
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
