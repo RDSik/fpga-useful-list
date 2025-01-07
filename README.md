@@ -99,6 +99,11 @@
 * [VeeR-ISS](https://github.com/chipsalliance/VeeR-ISS.git) - Whisper is a RISC-V instruction set simulator (ISS) developed for the verification of the Veer micro-controller.
 * [Spike](https://github.com/riscv-software-src/riscv-isa-sim.git) - Spike, the RISC-V ISA Simulator, implements a functional model of one or more RISC-V harts.
 * [uRV](https://ohwr.org/project/urv-core) - The uRV (Micro RISC-V) core is a small-sized implementation of a 32-bit RISC-V core, targeted specifically at FPGAs.
+* [Hummingbirdv2 E203 Core and SoC](https://github.com/riscv-mcu/e203_hbirdv2.git) - The Ultra-Low Power RISC-V Core
+* [CV32E40P](https://github.com/openhwgroup/cv32e40p.git) - CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform
+* [CVA6](https://github.com/openhwgroup/cva6.git) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
+* [Vortex GPGPU](https://github.com/vortexgpgpu/vortex.git) - Vortex is a full-stack open-source RISC-V GPGPU
+* [RISC-V Debug](https://github.com/pulp-platform/riscv-dbg.git) - RISC-V Debug Support for PULP RISC-V Cores
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
@@ -124,6 +129,9 @@
 * [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
 * [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization
 * [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler.git) - modular hardware build system ("make for silicon")
+* [Svlint](https://github.com/dalance/svlint.git) - SystemVerilog linter compliant with IEEE1800-2017
+* [SV-parser](https://github.com/dalance/sv-parser.git) - SystemVerilog parser library fully compliant with IEEE 1800-2017
+* [SVls](https://github.com/dalance/svls.git) - SystemVerilog language server
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
@@ -147,3 +155,4 @@
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
 * [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
 * [FreeCores](https://github.com/freecores) - A home for open source hardware cores
+* [HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support.git) - HDL support for VS Code with Syntax Highlighting, Snippets, Linting, Formatting
