@@ -132,6 +132,8 @@
 * [Svlint](https://github.com/dalance/svlint.git) - SystemVerilog linter compliant with IEEE1800-2017
 * [SV-parser](https://github.com/dalance/sv-parser.git) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 * [SVls](https://github.com/dalance/svls.git) - SystemVerilog language server
+* [HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support.git) - HDL support for VS Code with Syntax Highlighting, Snippets, Linting, Formatting
+* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
 
 #### Peoples
 * [Artin Isagholian](https://github.com/0xArt)
@@ -153,6 +155,4 @@
 * [Chip Design School](https://github.com/chipdesignschool) - Chip Design School repos
 * [Style Guides](https://github.com/lowRISC/style-guides) - lowRISC style guides
 * [Opencores Scraper](https://github.com/fabriziotappero/opencores-scraper) - Few python scripts to clone all IP cores from opencores.org
-* [TerosHDL](https://github.com/TerosTechnology/vscode-terosHDL) - VSCode extension
 * [FreeCores](https://github.com/freecores) - A home for open source hardware cores
-* [HDL support for VS Code](https://github.com/mshr-h/vscode-verilog-hdl-support.git) - HDL support for VS Code with Syntax Highlighting, Snippets, Linting, Formatting
