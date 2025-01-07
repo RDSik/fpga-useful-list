@@ -44,6 +44,7 @@
 * [LFSR](https://www.youtube.com/watch?v=oROOR6ylVF4&list=PL9K1-gZiaFsO5sd811zS86EtX95KA1_L7)
 * [AXI and AXI Stream](https://www.youtube.com/watch?v=GyYmSZZor1s&list=PL9K1-gZiaFsN-OLaN7mxfhWC4iFF82X6I)
 * [Zynq](https://www.youtube.com/watch?v=UZ3FnZNlcWk&list=PL9K1-gZiaFsMpRZ2uaFmM2-dS0z-EEgzW)
+* [Уроки FPGA](https://www.youtube.com/watch?v=_BlgPa7JwUw&list=PL2tpftA-kds7aUjCE4GzCe0QNaV-ISePy)
 * [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 * [Основы программирования](https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc)
 * [Harvard CS50 на русском](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
