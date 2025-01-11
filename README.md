@@ -48,6 +48,8 @@
 * [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 * [Основы программирования](https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc)
 * [Harvard CS50 на русском](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+* [Архитектуры процессорных систем](https://youtu.be/JmiMaKVoloI?si=r2b478yHioCfrpP3)
+* [Архитектура компьютеров и Операционные системы](https://youtu.be/HbeOCWNsGK0?si=CLFUNUdO3jch7Eax)
 
 ## Telegram
 
@@ -104,6 +106,7 @@
 * [CVA6](https://github.com/openhwgroup/cva6.git) - The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux
 * [Vortex GPGPU](https://github.com/vortexgpgpu/vortex.git) - Vortex is a full-stack open-source RISC-V GPGPU
 * [RISC-V Debug](https://github.com/pulp-platform/riscv-dbg.git) - RISC-V Debug Support for PULP RISC-V Cores
+* [biRISC-V](https://github.com/ultraembedded/biriscv.git) - 32-bit Superscalar RISC-V CPU
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
