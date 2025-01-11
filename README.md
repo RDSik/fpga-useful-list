@@ -48,8 +48,8 @@
 * [Цифровая обработка сигналов](https://www.youtube.com/watch?v=cRcSiALBfZI&list=PLmu_y3-DV2_kpP8oX_Uug0IbgH2T4hRPL)
 * [Основы программирования](https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc)
 * [Harvard CS50 на русском](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
-* [Архитектуры процессорных систем](https://youtu.be/JmiMaKVoloI?si=r2b478yHioCfrpP3)
-* [Архитектура компьютеров и Операционные системы](https://youtu.be/HbeOCWNsGK0?si=CLFUNUdO3jch7Eax)
+* [Архитектуры процессорных систем](https://www.youtube.com/watch?v=JmiMaKVoloI&list=PL0def37HEo5KHPjwK7A5bd4RJGg4djPVf&ab_channel=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BD%D1%8B%D1%85%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC)
+* [Архитектура компьютеров и Операционные системы](https://www.youtube.com/watch?v=HbeOCWNsGK0&list=PL4_hYwCyhAvZcOr5sJzuLmze2F6wPms-A&ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%A4%D0%9F%D0%9C%D0%98)
 
 ## Telegram
 
