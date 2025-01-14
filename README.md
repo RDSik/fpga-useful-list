@@ -107,6 +107,7 @@
 * [Vortex GPGPU](https://github.com/vortexgpgpu/vortex.git) - Vortex is a full-stack open-source RISC-V GPGPU
 * [RISC-V Debug](https://github.com/pulp-platform/riscv-dbg.git) - RISC-V Debug Support for PULP RISC-V Cores
 * [biRISC-V](https://github.com/ultraembedded/biriscv.git) - 32-bit Superscalar RISC-V CPU
+* [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip.git) - The Rocket chip generator necessary to instantiate the RISC-V Rocket Core
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
@@ -132,6 +133,7 @@
 * [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
 * [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization
 * [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler.git) - modular hardware build system ("make for silicon")
+* [Verible](https://github.com/chipsalliance/verible.git) -  Suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server 
 * [Svlint](https://github.com/dalance/svlint.git) - SystemVerilog linter compliant with IEEE1800-2017
 * [SV-parser](https://github.com/dalance/sv-parser.git) - SystemVerilog parser library fully compliant with IEEE 1800-2017
 * [SVls](https://github.com/dalance/svls.git) - SystemVerilog language server
