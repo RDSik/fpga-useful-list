@@ -108,6 +108,7 @@
 * [RISC-V Debug](https://github.com/pulp-platform/riscv-dbg.git) - RISC-V Debug Support for PULP RISC-V Cores
 * [biRISC-V](https://github.com/ultraembedded/biriscv.git) - 32-bit Superscalar RISC-V CPU
 * [Rocket Chip Generator](https://github.com/chipsalliance/rocket-chip.git) - The Rocket chip generator necessary to instantiate the RISC-V Rocket Core
+* [RISC-V Core](https://github.com/ultraembedded/riscv.git) - 32-bit RISC-V core written in Verilog and an instruction set simulator supporting RV32IM
 
 #### Tools
 * [SV2V](https://github.com/zachjs/sv2v.git) - Converts SystemVerilog (IEEE 1800-2017) to Verilog (IEEE 1364-2005), with an emphasis on supporting synthesizable language constructs
