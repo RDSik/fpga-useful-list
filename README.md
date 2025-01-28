@@ -134,6 +134,7 @@
 * [MyHDL](https://github.com/myhdl/myhdl.git) - Free open-source package for using Python as a hardware description and verification language
 * [Nextpnr](https://github.com/YosysHQ/nextpnr.git) - portable FPGA place and route tool.
 * [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane.git) - automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization
+* [Caravel](https://github.com/efabless/caravel.git) - Standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space
 * [SiliconCompiler](https://github.com/siliconcompiler/siliconcompiler.git) - modular hardware build system ("make for silicon")
 * [Verible](https://github.com/chipsalliance/verible.git) -  Suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server 
 * [Svlint](https://github.com/dalance/svlint.git) - SystemVerilog linter compliant with IEEE1800-2017
