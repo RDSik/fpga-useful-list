@@ -31,6 +31,7 @@
 
 ## YouTube
 
+* [Verilog for Beginners](https://www.youtube.com/watch?v=xRyks5945X4&list=PL9K1-gZiaFsMhcfMt0mdIgzhyx3VOJlI3&ab_channel=FPGAsforBeginners)
 * [Chip Design School](https://www.youtube.com/watch?v=DFcvEO-gP0c&list=PLi3mfxNhwAi-Jul8__xY9Nhig8DZNxJFZ&index=26)
 * [Разработка аппаратного обеспечения](https://www.youtube.com/watch?v=LPhnVATL_EY&list=PL5NHx3fCeyvv45zdwOyX1W64hIkzvQuCG)
 * [Архитектура и язык ассемблера RISC-V](https://www.youtube.com/watch?v=ZpH-Nwk4Y2U&list=PL6kSdcHYB3x6cjkby4H1RuRMzfbEGSNBi)
